@@ -1,4 +1,4 @@
-### Hi there 👋
+I majored applied mathematics and CS at Kyung Hee University
 
 <!--
 **SIDED00R/SIDED00R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
