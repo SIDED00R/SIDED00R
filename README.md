@@ -1,4 +1,4 @@
-I majored applied mathematics and CS at Kyung Hee University
+I'm majoring in applied mathematics and CS at Kyung Hee University
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SIDED00R&show_icons=true&theme=theme=buefy&hide_border=true)
