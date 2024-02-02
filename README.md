@@ -1,4 +1,5 @@
-I'm majoring in applied mathematics and CS at Kyung Hee University
+<h1 align="center">Hi 👋, I'm JaeHo Lee</h1>
+<h3 align="center">I'm majoring in applied mathematics and CS at Kyung Hee University</h3>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SIDED00R&show_icons=true&theme=theme=buefy&hide_border=true)
@@ -9,8 +10,13 @@ I'm majoring in applied mathematics and CS at Kyung Hee University
 ## Skills
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C%2b%2b-00599C?styleflat-square&logo=C%2b%2b&logoColor=white">
 
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/postgresql-4169E1?styleflat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/postgresql-4169E1?styleflat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?styleflat-square&logo=TensorFlow&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?styleflat-square&logo=PyTorch&logoColor=white">
+<img src="https://img.shields.io/badge/scikitlearn-F7931E?styleflat-square&logo=scikitlearn&logoColor=white">
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
 
 <!--
 
