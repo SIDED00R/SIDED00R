@@ -54,8 +54,14 @@
 ### Languages
 <p align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
-  <a href="https://www.postgresql.org/docs/current/sql.html" target="_blank"><img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
+  <a href="https://sass-lang.com/" target="_blank"><img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Dockerfile-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
+  <a href="https://www.postgresql.org/docs/current/sql.html" target="_blank"><img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/></a>
 </p>
 
 ### Data / Backend / Cloud
