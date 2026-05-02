@@ -76,7 +76,3 @@
 
 ## Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leedominico)](https://solved.ac/leedominico/)
-
----
-
-### Open to collaboration on data/AI-driven products and analytics projects.
