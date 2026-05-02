@@ -63,6 +63,9 @@
   <a href="https://hadoop.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/></a>
   <a href="https://spark.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/></a>
+  <a href="https://www.sqlalchemy.org/" target="_blank"><img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/></a>
+  <a href="https://www.selenium.dev/" target="_blank"><img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/></a>
   <a href="https://cloud.google.com/storage" target="_blank"><img src="https://img.shields.io/badge/GCP%20Cloud%20Storage-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/></a>
   <a href="https://cloud.google.com/run" target="_blank"><img src="https://img.shields.io/badge/GCP%20Cloud%20Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/></a>
 </p>
