@@ -51,14 +51,21 @@
 ---
 
 ## Tech Stack
-**Languages**  
-`Python` `SQL` `Java`
+### Languages
+<p align="left">
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+  <a href="https://www.postgresql.org/docs/current/sql.html" target="_blank"><img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/></a>
+</p>
 
-**Data / Backend / Cloud**  
-`Hadoop` `Apache Spark` `Django` `GCP (Cloud Storage, Cloud Run)`
-
-**AI / ML**  
-`GNN` `Temporal GNN` `Diffusion Models` `GMM` `MCMC` `SentenceTransformer` `FAISS`
+### Data / Backend / Cloud
+<p align="left">
+  <a href="https://hadoop.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/></a>
+  <a href="https://spark.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/></a>
+  <a href="https://cloud.google.com/storage" target="_blank"><img src="https://img.shields.io/badge/GCP%20Cloud%20Storage-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/></a>
+  <a href="https://cloud.google.com/run" target="_blank"><img src="https://img.shields.io/badge/GCP%20Cloud%20Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/></a>
+</p>
 
 ## Certifications
 - Google Cloud Certified: Associate Cloud Engineer (2025.02)
