@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Jaeho%20Lee&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Data%20%26%20AI%20Engineer&descAlignY=70)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=180&section=header&text=Jaeho%20Lee&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Data%20AI%20Engineer&descAlignY=70" alt="Jaeho Lee header" />
+</p>
 
 ### Building practical data and AI products that create measurable impact.
 
